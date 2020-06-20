@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="lightPrimaryColor">#B3E5FC</color>
+    <color name="dividerColor">#BDBDBD</color>
+
+    <color name="primaryTextWhite">#FFFFFF</color>
+    <color name="primaryTextBlack">#212121</color>
+    <color name="secondaryText">#757575</color>
+
+    <color name="editTextColorWhite">#FFFFFF</color>
+    <color name="editTextColorLightGray">#D3D2D2</color>
+    <color name="colorWhiteTransparent">#00FFFFFF</color>
+
+</resources>

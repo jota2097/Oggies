@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Oggies</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_exa">exa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TittleMenu">Home</string>
+
+    <!--login-->
+    <string name="hint_username_login">Correo</string>
+    <string name="hint_password_login">Contraseña</string>
+    <string name="text_button_login">Ingresar</string>
+    <string name="text_view_signin_login">¿No tienes cuenta? Crea una aquí</string>
+    <string name="email_validation_login">Correo requerido</string>
+    <string name="password_validation_login">Contraseña requerida</string>
+    <string name="email_password_validation_login">Correo y contraseña requeridos</string>
+    <string name="login_error_login">Ocurrió un error: </string>
+
+    <!--signin-->
+    <string name="hint_email_signin">Correo</string>
+    <string name="hint_name_signin">Nombre</string>
+    <string name="hint_user_signin">Usuario</string>
+    <string name="hint_password_signin">Contraseña</string>
+    <string name="hint_confirm_password_signin">Confirmar contraseña</string>
+    <string name="text_button_signin">Únete</string>
+    <string name="toolbar_tittle_signin">Crear cuenta</string>
+    <string name="email_validation_sigin">Correo invalido</string>
+    <string name="password_validation_sigin">Contraseña de confirmación diferente</string>
+    <string name="password_leng_validation_sigin">Contraseña debe tener al menos 8 caractenes</string>
+    <string name="validation_sigin">Todos los campos son requeridos</string>
+    <string name="logout">Salir</string>
+    <string name="oggie_s">Oggie\'s</string>
+
+
+</resources>
